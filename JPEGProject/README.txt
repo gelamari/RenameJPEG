@@ -1,6 +1,3 @@
-# RenameJPEG
-Using a Client Excel Sheet rename all the .jpg files in a folder in order of the excel sheet. 
-
 #Potential Errors 
 
 1. If you have a lastname firstname combination that repeats in the client sheet it will error out.
@@ -39,3 +36,10 @@ It will finish running when you see <terminated> that the top of the console.
 #Reverting back the name 
 
 Check the excel sheet that is created when you run the script. The console should tell you what this file is called. 
+
+
+
+
+
+
+
